@@ -33,9 +33,7 @@ function inserirResultado() {
 
     sectionPontuacao.innerHTML = `
             ${divAssunto.outerHTML}
-            
             <strong>${pontos}</strong>
-            
             <p>de 10</p>
          `
 }
